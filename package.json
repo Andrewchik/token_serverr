@@ -1,0 +1,22 @@
+{
+    "name": "token_server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "listening.js",
+    "type": "module",
+    "scripts": {
+      "start": "nodemon listening.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "dotenv": "^16.3.1",
+      "ethers": "^5.7.2",
+      "firebase": "^10.3.1",
+      "mongoose": "^7.5.2",
+      "nodemon": "^3.0.1",
+      "web3": "^4.1.1"
+    }
+  }
+  
